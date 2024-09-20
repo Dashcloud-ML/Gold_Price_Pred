@@ -1,1 +1,21 @@
-# Gold_Price_Pred
+# Gold Price Prediction Web Application
+
+## Overview
+This project is a web application designed for a gold shop, featuring real-time gold and silver price displays and a gold price prediction model. Users can view current prices, place orders, and see predicted future prices based on historical data.
+
+## Abstract
+
+The Gold Price Prediction Web Application is designed to serve as an online platform for a gold shop, providing users with real-time updates on gold and silver prices alongside a predictive analytics feature. By leveraging historical pricing data, the application employs machine learning techniques to forecast future gold prices, helping customers make informed purchasing decisions. The platform also includes a basic online ordering system, allowing users to conveniently place orders. This project aims to enhance customer engagement and streamline the purchasing process, while serving as a valuable tool for price analysis in the gold market.
+
+
+## Features
+- **Real-Time Price Display**: Show current gold and silver prices.
+- **Online Ordering**: Basic order form for customers to submit their orders.
+- **Gold Price Prediction**: Predict future gold prices using historical data.
+
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript (React)
+- **Backend**: Node.js, Express
+- **Database**: MongoDB (or any other database of your choice)
+- **Machine Learning**: Python (scikit-learn or similar for the prediction model)
+
