@@ -19,3 +19,11 @@ The Gold Price Prediction Web Application is designed to serve as an online plat
 - **Database**: MongoDB (or any other database of your choice)
 - **Machine Learning**: Python (scikit-learn or similar for the prediction model)
 
+## Machine Learning Model
+The price prediction model is built using:
+- **Algorithm**: Linear Regression (initial version) / ARIMA (for time-series data)
+- **Input Data**: Historical gold price data, optional financial indicators (inflation, currency rates)
+- **Libraries**: scikit-learn, pandas, numpy
+- **Deployment**: The model is deployed as a REST API using Flask, which is called by the React frontend for predictions.
+
+
