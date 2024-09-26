@@ -26,4 +26,16 @@ The price prediction model is built using:
 - **Libraries**: scikit-learn, pandas, numpy
 - **Deployment**: The model is deployed as a REST API using Flask, which is called by the React frontend for predictions.
 
+## Gold Price Prediction Using Machine Learning
+Historically, gold had been used as a form of currency in various parts of the world including USA. In present times, precious metals like gold are held with central banks of all countries to guarantee re-payment of foreign debts, and also to control inflation which results in reflecting the financial strength of the country.
+
+Forecasting rise and fall in the daily gold rates, can help investors to decide when to buy (or sell) the commodity.
+
+We in this project would forecast gold rates using the most comprehensive set of features and would apply various machine learning algorithms for forecasting and compare their results. We also identify the attributes that highly influence the gold rates.
+
+## Project Work Flow
+I would proceed the project as shown in the below mentioned steps.
+![Alt text](https://github.com/Dashcloud-ML/Gold_Price_Pred/blob/main/Screenshot%202024-09-26%20233228.png)
+
+
 
