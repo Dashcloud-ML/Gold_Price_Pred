@@ -33,8 +33,6 @@ Forecasting rise and fall in the daily gold rates, can help investors to decide 
 
 We in this project would forecast gold rates using the most comprehensive set of features and would apply various machine learning algorithms for forecasting and compare their results. We also identify the attributes that highly influence the gold rates.
 
-## Project Work Flow
-I would proceed the project as shown in the below mentioned steps.
 ![Alt text](https://github.com/Dashcloud-ML/Gold_Price_Pred/blob/main/Screenshot%202024-09-26%20233228.png)
 
 
