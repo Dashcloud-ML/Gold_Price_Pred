@@ -33,6 +33,21 @@ Forecasting rise and fall in the daily gold rates, can help investors to decide 
 
 We in this project would forecast gold rates using the most comprehensive set of features and would apply various machine learning algorithms for forecasting and compare their results. We also identify the attributes that highly influence the gold rates.
 
+## Deploy on Streamlit Cloud
+Streamlit offers free deployment directly from your GitHub repository. Here's how to deploy on Streamlit Cloud:
+
+Push your project to GitHub:
+
+Ensure that app.py, model.pkl, and requirements.txt are all in your repository.
+Deploy via Streamlit Cloud:
+
+Go to Streamlit Cloud.
+Log in with your GitHub account.
+Click on "New app" and select your repository.
+Choose the branch and the app.py file as the entry point.
+Click Deploy.
+Streamlit will build and deploy your app using the files from your repository.
+
 
 ![Alt text](https://github.com/Dashcloud-ML/Gold_Price_Pred/blob/main/Screenshot%202024-09-26%20233228.png)
 
